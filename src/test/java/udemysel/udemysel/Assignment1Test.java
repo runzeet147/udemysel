@@ -15,7 +15,7 @@ public class Assignment1Test {
 	 {	
 		
 		
-		///ruppa biila bunga chunga
+		///ruppa biila bunga chunga branch 
 		System.setProperty("webdriver.chrome.driver", "C://Users//ADMIN//Desktop//Selenium_Udemy//chromedrivers//chromedriver_83.0.exe");
 		WebDriver driver=new ChromeDriver();
 		driver.get("https://rahulshettyacademy.com/AutomationPractice/");
