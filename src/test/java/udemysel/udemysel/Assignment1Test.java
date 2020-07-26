@@ -13,6 +13,9 @@ public class Assignment1Test {
 	@Test
 	public void as1()
 	 {	
+		
+		
+		///ruppa biila bunga
 		System.setProperty("webdriver.chrome.driver", "C://Users//ADMIN//Desktop//Selenium_Udemy//chromedrivers//chromedriver_83.0.exe");
 		WebDriver driver=new ChromeDriver();
 		driver.get("https://rahulshettyacademy.com/AutomationPractice/");
